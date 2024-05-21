@@ -102,4 +102,7 @@
   .text-container {
     text-align: justify;
   }
+  .project-img {
+    width: 90% !important;
+  }
 }
